@@ -7,6 +7,8 @@ set rtp+=~/.vim/plugged/vim-airline-v0.11
 set rtp+=~/.vim/plugged/vim-cpp-enhanced-highlight-0.1
 set rtp+=~/.vim/plugged/vim-quickhl-v1.0
 set rtp+=~/.vim/plugged/molokai
+set rtp+=~/.vim/plugged/fzf.vim
+set rtp+=~/.vim/plugged/fzf
 
 " Only do this part when compiled with support for autocommands.
 if has("autocmd")
