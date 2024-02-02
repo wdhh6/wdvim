@@ -4,7 +4,6 @@ set rtp+=~/.vim/plugged/a.vim-2.18
 set rtp+=~/.vim/plugged/nerdtree-7.1.1
 set rtp+=~/.vim/plugged/taglist.vim-4.5
 set rtp+=~/.vim/plugged/vim-airline-v0.11
-set rtp+=~/.vim/plugged/vim-cpp-enhanced-highlight-0.1
 set rtp+=~/.vim/plugged/vim-quickhl-v1.0
 set rtp+=~/.vim/plugged/molokai
 set rtp+=~/.vim/plugged/fzf.vim
